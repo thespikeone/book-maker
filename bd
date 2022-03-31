@@ -1,0 +1,10 @@
+id
+id_client
+last_name Varchar 15
+first_name varchar 30
+adress text
+id_insta varchar 50
+lang varchar 8
+num_phone int 20
+email varchar 255
+book_name text
